@@ -50,7 +50,8 @@ To evaluate a model on a dataset, follow these steps:
 We translated each dataset independently, as each required specific considerations. The code to reproduce the translations is available in the `dataset_translation` folder. While a large part of all examples can be successfully translated with clever prompting, manual post-processing was required to fill in the gaps.
 
 ## License
-This project is licensed under the [MIT License](LICENSE), which allows you to use, modify, and distribute the code and datasets. However, please note that the original datasets being translated may have their own licenses, so make sure to respect and adhere to them when using the translated benchmarks.
+This project is licensed under the [Apache 2.0 License](LICENSE).
+However, please note that the original datasets being translated may have their own licenses, so make sure to respect and adhere to them when using the translated benchmarks.
 
 We hope that these translated benchmarks empower the German NLP community and contribute to advancements in multilingual language modeling. Happy coding and researching!
 
