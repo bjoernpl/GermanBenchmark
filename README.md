@@ -1,4 +1,4 @@
-![](header.png)
+![A group of differently dressed Llamas on the starting line of a racetrack about to run.](header.png)
 # German Benchmark Datasets
 ## Translating Popular LLM Benchmarks to German
 
