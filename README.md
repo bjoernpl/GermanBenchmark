@@ -1,5 +1,7 @@
+![](header.png)
 # German Benchmark Datasets
 ## Translating Popular LLM Benchmarks to German
+
 
 Inspired by the [HuggingFace Open LLM leaderboard](HuggingFaceH4/open_llm_leaderboard), this project aims to utilize GPT-3.5 to provide German translations for popular LLM benchmarks, enabling researchers and practitioners to evaluate the performance of various language models on tasks using the German language. We follow the HF leaderboard in designing the datasets to be used with the [Eleuther AI Language Model Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness). By creating these translated benchmarks, we hope to contribute to the advancement of multilingual natural language processing and foster research in the German NLP community.
 
